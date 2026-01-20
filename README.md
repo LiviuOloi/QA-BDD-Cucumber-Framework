@@ -56,7 +56,7 @@ Contains Gherkin feature files describing the test scenarios for login, post, an
 ## How to Run the Tests
 
 Clone the repository:
-git clone https://github.com/LiviuOloi/qa-tema17.git
+git clone https://github.com/LiviuOloi/QA-BDD-Cucumber-Framework.git
 
 Navigate into the project directory:
 cd qa-tema17
